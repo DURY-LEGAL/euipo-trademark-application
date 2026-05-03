@@ -1,0 +1,25 @@
+{
+  "name": "euipo-trademark-application",
+  "version": "0.1.0",
+  "description": "EUIPO trademark application helper - European Union IP Office integration. Powered by DURY LEGAL.",
+  "keywords": [
+    "euipo",
+    "trademark",
+    "application",
+    "filing",
+    "eu",
+    "legal-tech",
+    "dury-legal"
+  ],
+  "author": "DURY LEGAL Rechtsanwaelte <info@dury.de> (https://www.dury.de)",
+  "license": "MIT",
+  "homepage": "https://www.dury.de",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DURY-LEGAL/euipo-trademark-application.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Tests coming soon'"
+  }
+}
